@@ -1,6 +1,6 @@
 # Various code support ASM-C-C++-GOLANG-PYTHON-STEP7-JAVA-CSharp-ETC-STUDENTS-SUPPORTS
 
-![Screenshot 2024-02-09 at 14 15 41](https://github.com/sonvirgo/Assembly-C-CPlusPlus-Java-CSharp-GoLang-Python-Step7-ETC-Students-Supports/assets/10823037/035db8b5-f164-4f17-8e63-94e136ba880f)
+
 ![Screenshot 2024-02-09 at 14 08 38](https://github.com/sonvirgo/Assembly-C-CPlusPlus-Java-CSharp-GoLang-Python-Step7-ETC-Students-Supports/assets/10823037/c9ad4009-f48b-437d-b4e7-d5f91c4e32b0)
 
 
